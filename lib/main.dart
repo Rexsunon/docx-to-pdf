@@ -51,7 +51,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'AirSmat Legal Docx to Pdf'),
+      home: const MyHomePage(title: 'Docx to Pdf'),
     );
   }
 }
